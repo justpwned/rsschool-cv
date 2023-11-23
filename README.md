@@ -1,1 +1,1 @@
-https://justpwned.github.io/rsschool-cv/cv
+https://justpwned.github.io/rsschool-cv/
